@@ -65,3 +65,9 @@
     width: 18px;
     height: 18px;
 }
+.form-switch span{
+    margin-left: 6px;
+    color: #fff;
+    font-weight: 500;
+    cursor: pointer;
+}
