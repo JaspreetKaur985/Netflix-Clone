@@ -26,6 +26,13 @@ const Home = () => {
                 <TiltleCards/>
             </div>
         </div>
+        <div className='more-cards'>
+          <TiltleCards title={"Blockbuster Movies"}/>
+          <TiltleCards title={"Only on Netflix"}/>
+          <TiltleCards title={"Upcoming"}/>
+          <TiltleCards title={"Top picks for you"}/>
+
+        </div>
     </div>
   )
 }
