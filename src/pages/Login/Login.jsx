@@ -1,8 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './Login.css'
 import logo from '../../assets/logo.png'
 
 const Login = () => {
+
+  const [signState,setSignState] = useState("Sign In")
+  l
   return (
     <div className='login'>
       <img src={logo} className='login-logo' alt="" />
