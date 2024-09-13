@@ -43,7 +43,6 @@
     align-items: center;
     gap: 10px;
     cursor: pointer;
-    position: relative;
 }
 .navbar .dropdown{
     position: absolute;
@@ -63,7 +62,5 @@
 }
 .navbar-profile:hover .dropdown{
     display: block;
-}
-.nav-dark{
-    background: #141414;
+    
 }
