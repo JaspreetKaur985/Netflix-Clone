@@ -5,12 +5,13 @@ import { toast } from "react-toastify";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBruF38_BEbsYL1nS5oMg0WOfmRn9mcywU",
-  authDomain: "netflixclone-e2909.firebaseapp.com",
-  projectId: "netflixclone-e2909",
-  storageBucket: "netflixclone-e2909.appspot.com",
-  messagingSenderId: "536167101186",
-  appId: "1:536167101186:web:4ce80d76e1c2c98678881b"
+  apiKey: "AIzaSyAemF4AsASscBJxEGzgCVxvhgwH3RMfM7o",
+  authDomain: "pinterest-clone-1104.firebaseapp.com",
+  projectId: "pinterest-clone-1104",
+  storageBucket: "pinterest-clone-1104.firebasestorage.app",
+  messagingSenderId: "300547354077",
+  appId: "1:300547354077:web:c9051af91e839b06f8da34",
+  measurementId: "G-VG1VNQG4YY"
 };
 
 const app = initializeApp(firebaseConfig);
